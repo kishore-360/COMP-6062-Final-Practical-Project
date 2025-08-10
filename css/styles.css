@@ -1,0 +1,21 @@
+img {
+        width: 100px;
+        height: 100px;
+        background-color: black;
+    }
+
+.weatherData{
+                color: rgb(207, 134, 39);
+            }
+.defineWords {
+                color: rgb(207, 134, 39);
+            }
+
+@media(min-width: 1024px) {
+                            body {
+                                    font-size: 18px;
+                                    font-style: italic;
+                                    color: aqua;
+                                    background-color: black;
+                                }
+                          }
